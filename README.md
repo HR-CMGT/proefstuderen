@@ -4,6 +4,7 @@
 
 - [Proefstuderen CMGT](#proefstuderen-cmgt)
 - [Opdracht 1 - Teksten in HTML](#opdracht-1---teksten-in-html)
+- [Opdracht 2: Basisstructuur HTML](#opdracht-2-basisstructuur-html)
 
 <br>
 
@@ -33,5 +34,37 @@ Zet onderstaande teksten om naar HTML in Codepen.
 **Afbeeldingen**
 
 | Parijs                                                               | Kyoto                                                               | Santorini                                                                      |
-|----------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <img src="images/paris.jpg" alt="Parijs" title="Parijs" width="200"> | <img src="images/kyoto.jpg" alt="Kyotio" title="Kyoto" width="200"> | <img src="images/santorini.jpg" alt="Santorini" title="Santorini" width="200"> |
+
+<br><br>
+
+# Opdracht 2: Basisstructuur HTML
+
+Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer de HTML bovenaan de HTML-editor in Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de juiste tags van de basisstructuur.
+
+```html
+<header>
+    <!-- VERVANG DIT VOOR DE INLEIDENDE TEKSTEN -->
+</header>
+
+<main>
+
+	<section>
+        <!-- VERVANG DIT VOOR DE TEKSTEN OVER PARIJS -->
+    </section>
+
+	<section>
+        <!-- VERVANG DIT VOOR DE TEKSTEN OVER KYOTO -->
+    </section>
+
+	<section>
+        <!-- VERVANG DIT VOOR DE TEKSTEN OVER SANTORINI -->
+    </section>
+
+</main>
+
+<footer>
+    <!-- PLAATS HIER DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN] -->
+</footer>
+```
