@@ -15,7 +15,7 @@ Welkom op onze reisbestemmingenwebsite! Droom je ervan om nieuwe horizonnen te v
 
 <img src="images/paris.jpg" alt="Paris" title="Paris" width="200">
 
-<br><br>
+<br>
 
 
 > Parijs, Frankrijk<br>
