@@ -3,12 +3,12 @@
 **Inhoudsopgave**
 
 - [Proefstuderen CMGT](#proefstuderen-cmgt)
-- [Opdracht 1 - Teksten in HTML](#opdracht-1---teksten-in-html)
+- [Opdracht 1: Teksten in HTML](#opdracht-1-teksten-in-html)
 - [Opdracht 2: Basisstructuur HTML](#opdracht-2-basisstructuur-html)
 
 <br>
 
-# Opdracht 1 - Teksten in HTML
+# Opdracht 1: Teksten in HTML
 Zet onderstaande teksten om naar HTML in Codepen.
 
 > Reisbestemmingen<br>
@@ -41,7 +41,7 @@ Zet onderstaande teksten om naar HTML in Codepen.
 
 # Opdracht 2: Basisstructuur HTML
 
-Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer de HTML bovenaan de HTML-editor in Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de juiste tags van de basisstructuur.
+Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer onderstaande HTML naar Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de juiste tags van de basisstructuur.
 
 ```html
 <header>
@@ -65,6 +65,6 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 </main>
 
 <footer>
-    <!-- PLAATS HIER DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN] -->
+    <!-- PLAATS HIER DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. -->
 </footer>
 ```
