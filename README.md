@@ -84,7 +84,7 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 
 <main>
 
-	<section>
+    <section>
         <!-- VERVANG DIT VOOR DE TEKSTEN OVER PARIJS -->
     </section>
 
@@ -99,9 +99,7 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 </main>
 
 <footer>
-    <p>
-        <!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. -->
-    </p>
+    <p><!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. --></p>
 </footer>
 ```
 
