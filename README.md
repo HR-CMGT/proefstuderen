@@ -47,10 +47,11 @@ Zet onderstaande teksten om naar HTML in Codepen. Je hebt hiervoor de volgende H
 
 Nu de teksten netjes in HTML-tags staan wordt het tijd om deze vorm te geven met de CSS. Voer met behulp van de cheatsheet onderstaande opdrachten uit:
 
-1. Stel de `<h1>` en `<h2>` in op een ander lettertype naar wens (zie de cheatsheet voor de mogelijke lettertypes)
-2. Stel de lettergrootte van de `<h1>` en `<h2>` naar wens in
-3. Verwerk minimaal 3 kleuren naar wens
-4. Maak de inleidende tekst groter (hiervoor moet je een `class` instellen op die `<p>`)
+1. Stel de teksten standaard in op `Arial`. Gebruik hiervoor `body` als de selector
+2. Stel de `<h1>` en `<h2>` in op een ander lettertype naar wens (zie de cheatsheet voor de mogelijke lettertypes)
+3. Stel de lettergrootte van de `<h1>` en `<h2>` naar wens in
+4. Verwerk minimaal 3 kleuren naar wens
+5. Maak de inleidende tekst groter (hiervoor moet je een `class` instellen op die `<p>`)
 
 <br><br>
 
