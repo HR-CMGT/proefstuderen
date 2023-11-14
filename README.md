@@ -121,7 +121,7 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 
 <br>
 
-> ⚠️ BELANGRIJK: kopieer en plak vóórdat je begint onderstaande CSS-code bovenaan in het CSS-veld in Codepen ⚠️
+> ⚠️ BELANGRIJK: kopieer en plak onderstaande CSS-code bovenaan in het CSS-veld in Codepen ⚠️
 
 ```css
 /* Onderstaande code laten staan */
