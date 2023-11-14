@@ -131,11 +131,7 @@ body {
 
 h1,
 h2 {
-	margin-top: 0;
-}
-
-section p:last-child {
-	margin-bottom: 0;
+	margin: 0;
 }
 /* Bovenstaande code laten staan */
 ```
