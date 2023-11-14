@@ -113,6 +113,7 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 <br>
 
 **Het ontwerp**
+<br>Klik op het ontwerp om te vergroten
 
 <img src="./images/eindresultaat.png" alt="Eindresultaat" title="Eindresultaat" width="1012">
 
@@ -133,5 +134,6 @@ Heb jij al eerder gewerkt met HTML en CSS? Daag jezelf dan uit door deze advance
 <br>
 
 **Het ontwerp**
+<br>Klik op het ontwerp om te vergroten
 
 <img src="./images/eindresultaat-advanced.png" alt="Eindresultaat" title="Eindresultaat" width="1012">
