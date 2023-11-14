@@ -110,6 +110,9 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 | Padding              | Gebruik `padding` om ruimte **binnen** een element te maken (bv. `padding: 20px;`). |
 | Margin               | Gebruik `margin` om ruimte **om** een element te maken  (bv. `margin: 20px;`).      |
 
+<br>
+
+**Het ontwerp**
 
 <img src="./images/eindresultaat.png" alt="Eindresultaat" title="Eindresultaat" width="1012">
 
@@ -119,7 +122,7 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 Heb jij al eerder gewerkt met HTML en CSS? Daag jezelf dan uit door deze advanced opdracht uit te voeren. Bouw onderstaand ontwerp na en hou rekening met het volgende:
 
 | Onderwerp              | Toelichting                                                                                                                                                                                                                      |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gebruikte kleurcodes   | #333333 - #FFFFFF - #DDDDDD                                                                                                                                                                                                      |
 | Lettertypes            | Stel de `<h1>` en `<h2>` met een zelfgekozen lettertype van Google Fonts.                                                                                                                                                        |
 | Flexbox                | Met Flexbox is het o.a. mogelijk om elementen naast elkaar te positioneren.                                                                                                                                                      |
@@ -127,5 +130,8 @@ Heb jij al eerder gewerkt met HTML en CSS? Daag jezelf dan uit door deze advance
 | border-radius          | Gebruik `border-radius` om hoeken af te ronden.                                                                                                                                                                                  |
 | transition & transform | Gebruik `transition` in combinatie met `transform` om iedere `<section>` te vergroten wanneer je de muis erop plaatst: <br><img src="./images/eindresultaat-advanced.gif" alt="Eindresultaat" title="Eindresultaat" width="600"> |
 
+<br>
+
+**Het ontwerp**
 
 <img src="./images/eindresultaat-advanced.png" alt="Eindresultaat" title="Eindresultaat" width="1012">
