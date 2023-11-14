@@ -126,12 +126,12 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 ```css
 /* Onderstaande code laten staan */
 body {
-	margin: 0;
+    margin: 0;
 }
 
 h1,
 h2 {
-	margin: 0;
+    margin: 0;
 }
 /* Bovenstaande code laten staan */
 ```
