@@ -53,11 +53,12 @@ Nu de teksten netjes in HTML-tags staan wordt het tijd om deze vorm te geven met
 
 # Opdracht 3: Afbeeldingen
 
-Plaats onderstaande afbeeldingen onder de bijbehorende tekst door gebruik te maken van de HTML-tag `<img>`. Stel in de CSS in dat alle afbeeldingen `400px` breed moeten zijn. Dit is een voorbeeld van hoe je deze HTML-tag gebruikt (vervang *`URL`* voor de juiste URL van de afbeelding):
+Plaats onderstaande afbeeldingen onder de bijbehorende tekst door gebruik te maken van de HTML-tag `<img>`. Voer de volgende stappen uit:
 
-```html
-<img src="URL">
-```
+1. Kopieer het adres van onderstaande afbeelding (klik met de rechter muistoets op de afbeelding en vervolgens op `Adres van afbeelding kopiëren`.)
+2. Schrijf je HTML-tag en voer de URL in: `<img src="URL">`
+3. Stel in de CSS in dat alle afbeeldingen `400px` breed moeten zijn
+
 
 <br>
 
