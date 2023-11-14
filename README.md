@@ -15,9 +15,11 @@
 # Opdracht 1: Teksten in HTML
 Zet onderstaande teksten om naar HTML in Codepen. Je hebt hiervoor de volgende HTML-tags nodig:
 
-- `<h1>`
-- `<h2>`
-- `<p>`
+| HTML-tags |
+|-----------|
+| `<h1>`    |
+| `<h2>`    |
+| `<p>`     |
 
 <br>
 
