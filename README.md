@@ -50,7 +50,7 @@ Nu de teksten netjes in HTML-tags staan wordt het tijd om deze vorm te geven met
 1. Stel het lettertype van de `<p>` in op `Arial`
 2. Stel de `<h1>` en `<h2>` in op een ander lettertype naar wens (zie de cheatsheet voor de mogelijke lettertypes)
 3. Stel de lettergrootte van de `<h1>` en `<h2>` naar wens in
-4. Verwerk minimaal 3 kleuren naar wens
+4. Verwerk minimaal 3 kleuren naar wens ([gebruik deze website om kleuren te kiezen](https://coolors.co/palettes/palettes))
 5. Maak de inleidende tekst groter (hiervoor moet je een `class` instellen op die `<p>`)
 
 <br><br>
@@ -99,7 +99,9 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 </main>
 
 <footer>
-    <!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. -->
+    <p>
+        <!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. -->
+    </p>
 </footer>
 ```
 
@@ -112,6 +114,7 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 | -------------------- | ----------------------------------------------------------------------------------- |
 | Gebruikte kleurcodes | #333333 - #FFFFFF - #DDDDDD                                                         |
 | Lettertypes          | Gebruik de lettertypes die je bij opdracht 2 hebt gekozen.                          |
+| background-color     | Met `background-color` kun je de achtergrondkleur instellen van een element.        |
 | Padding              | Gebruik `padding` om ruimte **binnen** een element te maken (bv. `padding: 20px;`). |
 | Margin               | Gebruik `margin` om ruimte **om** een element te maken  (bv. `margin: 20px;`).      |
 
