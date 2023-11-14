@@ -110,13 +110,14 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 # Opdracht 5a (regulier): Basisstructuur vormgeven
 Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte website te laten aanvoelen. Nu zie je alleen nog teksten en afbeeldingen onder elkaar staan, maar een website heeft ook altijd een bepaalde vlakverdeling. In de HTML heb je hier al de basis voor gelegd, doordat je de basisstructuur hebt doorgevoerd. Nu kan je die HTML-elementen vormgeven in de CSS. Bouw onderstaand ontwerp na en hou rekening met het volgende:
 
-| Onderwerp            | Toelichting                                                                         |
-| -------------------- | ----------------------------------------------------------------------------------- |
-| Gebruikte kleurcodes | #333333 - #FFFFFF - #DDDDDD                                                         |
-| background-color     | Met `background-color` kun je de achtergrondkleur instellen van een element.        |
-| Lettertypes          | Gebruik de lettertypes die je bij opdracht 2 hebt gekozen.                          |
-| Padding              | Gebruik `padding` om ruimte **binnen** een element te maken (bv. `padding: 20px;`). |
-| Margin               | Gebruik `margin` om ruimte **om** een element te maken  (bv. `margin: 20px;`).      |
+| Onderwerp            | Toelichting                                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------------------|
+| Gebruikte kleurcodes | #333333 - #FFFFFF - #DDDDDD                                                                                     |
+| background-color     | Met `background-color` kun je de achtergrondkleur instellen van een element (bv. `background-color: #000000;`). |
+| border               | Met `border` kun je een randje om een element heen instellen (bv. `border: 1px solid #000000;`).                |
+| Lettertypes          | Gebruik de lettertypes die je bij opdracht 2 hebt gekozen.                                                      |
+| Padding              | Gebruik `padding` om ruimte **binnen** een element te maken (bv. `padding: 5px;`).                              |
+| Margin               | Gebruik `margin` om ruimte **om** een element te maken  (bv. `margin: 5px;`).                                   |
 
 <br>
 
