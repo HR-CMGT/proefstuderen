@@ -88,7 +88,7 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
         <!-- VERVANG DIT VOOR DE TEKSTEN OVER PARIJS -->
     </section>
 
-	<section>
+    <section>
         <!-- VERVANG DIT VOOR DE TEKSTEN OVER KYOTO -->
     </section>
 
@@ -111,7 +111,7 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte website te laten aanvoelen. Nu zie je alleen nog teksten en afbeeldingen onder elkaar staan, maar een website heeft ook altijd een bepaalde vlakverdeling. In de HTML heb je hier al de basis voor gelegd, doordat je de basisstructuur hebt doorgevoerd. Nu kan je die HTML-elementen vormgeven in de CSS. Bouw onderstaand ontwerp na en hou rekening met het volgende:
 
 | Onderwerp            | Toelichting                                                                                                     |
-|----------------------|-----------------------------------------------------------------------------------------------------------------|
+| -------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Gebruikte kleurcodes | #333333 - #FFFFFF - #DDDDDD                                                                                     |
 | background-color     | Met `background-color` kun je de achtergrondkleur instellen van een element (bv. `background-color: #000000;`). |
 | border               | Met `border` kun je een randje om een element heen instellen (bv. `border: 1px solid #000000;`).                |
