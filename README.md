@@ -99,7 +99,9 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 </main>
 
 <footer>
-    <p><!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. --></p>
+    <p>
+        <!-- VERVANG DIT MET DE VOLGENDE TEKST: Deze website is gemaakt door [VOER JOUW NAAM IN]. -->
+    </p>
 </footer>
 ```
 
@@ -111,8 +113,8 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 | Onderwerp            | Toelichting                                                                         |
 | -------------------- | ----------------------------------------------------------------------------------- |
 | Gebruikte kleurcodes | #333333 - #FFFFFF - #DDDDDD                                                         |
-| Lettertypes          | Gebruik de lettertypes die je bij opdracht 2 hebt gekozen.                          |
 | background-color     | Met `background-color` kun je de achtergrondkleur instellen van een element.        |
+| Lettertypes          | Gebruik de lettertypes die je bij opdracht 2 hebt gekozen.                          |
 | Padding              | Gebruik `padding` om ruimte **binnen** een element te maken (bv. `padding: 20px;`). |
 | Margin               | Gebruik `margin` om ruimte **om** een element te maken  (bv. `margin: 20px;`).      |
 
