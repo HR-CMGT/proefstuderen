@@ -16,7 +16,7 @@
 Zet onderstaande teksten om naar HTML in Codepen. Je hebt hiervoor de volgende HTML-tags nodig:
 
 | HTML-tags |
-|-----------|
+| --------- |
 | `<h1>`    |
 | `<h2>`    |
 | `<p>`     |
@@ -47,7 +47,7 @@ Zet onderstaande teksten om naar HTML in Codepen. Je hebt hiervoor de volgende H
 
 Nu de teksten netjes in HTML-tags staan wordt het tijd om deze vorm te geven met de CSS. Voer met behulp van de cheatsheet onderstaande opdrachten uit:
 
-1. Stel de teksten standaard in op `Arial`. Gebruik hiervoor `body` als de selector
+1. Stel het lettertype van de `<p>` in op `Arial`
 2. Stel de `<h1>` en `<h2>` in op een ander lettertype naar wens (zie de cheatsheet voor de mogelijke lettertypes)
 3. Stel de lettergrootte van de `<h1>` en `<h2>` naar wens in
 4. Verwerk minimaal 3 kleuren naar wens
@@ -75,7 +75,7 @@ Plaats onderstaande afbeeldingen onder de bijbehorende tekst door gebruik te mak
 
 # Opdracht 4: Basisstructuur HTML
 
-Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer onderstaande HTML naar Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de juiste tags van de basisstructuur. De website ziet er na deze opdracht op het eerste gezicht nog hetzelfde uit, maar bij de volgende opdracht ga je deze basisstructuur gebruiken om jouw pagina veel meer als een echte website te laten aanvoelen.
+Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer onderstaande HTML naar Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de bijbehorende tag in de basisstructuur. De website ziet er na deze opdracht op het eerste gezicht nog hetzelfde uit, maar bij de volgende opdracht ga je deze basisstructuur gebruiken om jouw pagina veel meer als een echte website te laten aanvoelen.
 
 ```html
 <header>
