@@ -121,6 +121,27 @@ Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte web
 
 <br>
 
+> ⚠️ BELANGRIJK: kopieer en plak onderstaan CSS-code in het CSS-veld in Codepen
+
+```css
+/* Onderstaande code laten staan */
+body {
+	margin: 0;
+}
+
+h1,
+h2 {
+	margin-top: 0;
+}
+
+section p:last-child {
+	margin-bottom: 0;
+}
+/* Bovenstaande code laten staan */
+```
+
+<br>
+
 **Het ontwerp**
 <br>*Klik op het ontwerp om te vergroten*
 
