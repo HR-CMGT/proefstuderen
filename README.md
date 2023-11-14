@@ -56,7 +56,7 @@ Nu de teksten netjes in HTML-tags staan wordt het tijd om deze vorm te geven met
 Plaats onderstaande afbeeldingen onder de bijbehorende tekst door gebruik te maken van de HTML-tag `<img>`. Voer de volgende stappen uit:
 
 1. Kopieer het adres van onderstaande afbeelding (klik met de rechter muistoets op de afbeelding en vervolgens op `Adres van afbeelding kopiëren`.)
-2. Schrijf je HTML-tag en voer de URL in: `<img src="URL">`
+2. Schrijf de HTML-tag en voer de URL in: `<img src="URL">`
 3. Stel in de CSS in dat alle afbeeldingen `400px` breed moeten zijn
 
 
