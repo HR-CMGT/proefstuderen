@@ -75,7 +75,9 @@ Plaats onderstaande afbeeldingen onder de bijbehorende tekst door gebruik te mak
 
 # Opdracht 4: Basisstructuur HTML
 
-Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kopieer onderstaande HTML naar Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de bijbehorende tag in de basisstructuur. De website ziet er na deze opdracht op het eerste gezicht nog hetzelfde uit, maar bij de volgende opdracht ga je deze basisstructuur gebruiken om jouw pagina veel meer als een echte website te laten aanvoelen.
+Je hebt nu de teksten en afbeeldingen van jouw eerste website gereed! Zoals je in het eindresultaat kon zien heeft een website echter ook altijd een bepaalde vlakverdeling met verschillende kleuren. Het begint meestal met een inleiding van de pagina (de `<header>`), gevolgd door de hoofdinhoud waar de pagina om gaat (de `<main>`), met daarin losse hoofdstukken (meerdere `<section>`) afgesloten met een afsluitend vlak (de `<footer>`). Nagenoeg iedere webpagina heeft deze basisstructuur.
+
+De HTML-code voor deze basisstructuur zie je hieronder staan. Kopieer onderstaande HTML naar Codepen en verplaats alle content die je tot nu toe hebt gemaakt naar de bijbehorende tag in de basisstructuur. De website ziet er na deze opdracht op het eerste gezicht nog hetzelfde uit, maar bij de volgende opdracht ga je aan de slag met HTML om deze structuur naar wens vorm te geven, waardoor jouw webpagina veel meer als een echte website gaat aanvoelen.
 
 ```html
 <header>
@@ -108,7 +110,7 @@ Onderstaande HTML is de basisstructuur die je nodig hebt voor deze opdracht. Kop
 <br><br>
 
 # Opdracht 5a (regulier): Basisstructuur vormgeven
-Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte website te laten aanvoelen. Nu zie je alleen nog teksten en afbeeldingen onder elkaar staan, maar een website heeft ook altijd een bepaalde vlakverdeling. In de HTML heb je hier al de basis voor gelegd, doordat je de basisstructuur hebt doorgevoerd. Nu kan je die HTML-elementen vormgeven in de CSS. Bouw onderstaand ontwerp na en hou rekening met het volgende:
+Nu de pagina qua HTML helemaal klaar is, wordt het tijd om het als een echte website te laten aanvoelen. Nu zie je alleen nog teksten en afbeeldingen onder elkaar staan, maar een website heeft ook altijd een bepaalde vlakverdeling. In de HTML heb je hier al de basis voor gelegd, doordat je in de vorige opdracht de basisstructuur hebt doorgevoerd. Nu kan je die HTML-elementen vormgeven in de CSS. Bouw onderstaand ontwerp na en hou rekening met het volgende:
 
 | Onderwerp            | Toelichting                                                                                                     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------- |
