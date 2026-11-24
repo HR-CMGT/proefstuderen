@@ -24,7 +24,7 @@ Zet onderstaande teksten om naar HTML in Codepen. Je hebt hiervoor de volgende H
 <br>
 
 > Reisbestemmingen<br>
-> Welkom op onze reisbestemmingenwebsite! Droom je ervan om nieuwe horizonnen te verkennen en avonturen te beleven? Hier vind je inspiratie voor enkele adembenemende bestemmingen over de hele wereld. Blader door onderstaande bestemmingen en ontdek de wonderen van de reiswereld.
+> Welkom bij de favoriete reisbestemmingen van [JOUW NAAM]! Droom je ervan om nieuwe horizonnen te verkennen en avonturen te beleven? Hier vind je inspiratie voor enkele adembenemende bestemmingen over de hele wereld. Blader door onderstaande bestemmingen en ontdek de wonderen van de reiswereld.
 
 <br>
 
